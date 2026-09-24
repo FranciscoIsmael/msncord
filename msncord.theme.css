@@ -1,0 +1,75 @@
+/* 
+@name msncord
+@author Ish_17
+@description A theme based in messenger's 2000's UI
+
+*/
+@import url(/home/ish/custom/Programming/tema_discord/msncod/css/main.css);
+
+*{
+    color: black !important;
+}
+
+/* barra con el nombre del server */
+.bar_c38106{
+    /* background-color: #336BC1; */
+    background-image: linear-gradient(to bottom, #7EB2F5, #3451A0);
+}
+
+/* barra de encima de canales */
+.container_f37cb1{
+    /* background-color: #336BC1; */
+    background-image: linear-gradient(#F6F7FE, #C3D1EA, #F6F7FE);
+}
+
+/* canales */
+#channels{
+    background-color: #EFF4FB;
+}
+/* caja de mensajes */
+.messagesWrapper__36d07{
+    background-color: #FFFFFF;
+    
+}
+
+/* avatar dentro de mensajes */
+.avatar_c19a55{
+    border-radius: 10%;
+}
+
+/* fondo de los mensajes */
+.message__5126c{
+    background-color: #FAFCE3;
+}
+
+/* encabezado del canal */
+
+.container__9293f{
+    /* background-color: #336BC1 !important; */
+     background-image: linear-gradient(#F6F7FE, #C3D1EA, #F6F7FE) !important;
+}
+
+/* panel de gente en el servidor */
+
+.members_c8ffbb{
+    background-color: #EFF4FB;
+}
+/* miembro */
+.childContainer__91a9d{
+    background-color: #FAFCE3;
+}
+
+/* caja de texto formulario */
+.form_f75fb0{
+    background-color: #E9EFFB;
+}
+
+/* formulario escribir mensajes */
+.scrollableContainer__74017{
+    background-color: #FFFFFF;
+}
+
+/* panel del usuario */
+.panels__5e434{
+    background-color: #336BC1;
+}
